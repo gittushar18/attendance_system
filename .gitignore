@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+attendance/
+.DS_Store
+__MACOSX/
+tempCodeRunnerFile.py
+temp_*.py
