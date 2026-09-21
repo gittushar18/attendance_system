@@ -1,2 +1,16 @@
+[project]
+name = "attendance-system"
+version = "1.0.0"
+requires-python = ">=3.12,<3.13"
+
+dependencies = [
+    "Flask",
+    "opencv-python-headless",
+    "face-recognition",
+    "numpy",
+    "pandas",
+    "Pillow"
+]
+
 [tool.vercel]
 entrypoint = "flask_app:app"
