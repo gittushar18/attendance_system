@@ -9,7 +9,9 @@ dependencies = [
     "face-recognition",
     "numpy",
     "pandas",
-    "Pillow"
+    "Pillow",
+    "schedule"
+
 ]
 
 [tool.vercel]
